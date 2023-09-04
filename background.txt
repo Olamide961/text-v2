@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: blue ;
+}
+
+p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h1>this is header one</h1>
+<div>
+hello to this accursed world.
+<p>this is the main greeting.</p>
+hello world.
+</div>
+
+</body>
+</html>
+

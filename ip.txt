@@ -1,0 +1,13 @@
+what is an ip address
+ internet protocol is a set of rules for communication over the internetsuch
+as sending mail,streaming video or connecting to a website 
+
+IMPOTANCE OF IP ADDRESS
+1.An ip address identifies a network or device on the internet
+2.Is used for routing internet traffic
+3.with ip address it is easy to seee which device on the internet are sending,requesting and 
+receiving what information
+4.IP addresses are like telephone numbers, and they serve the same purpose. 
+When you contact someone, your phone number identifies who you are and it assures the person who answers
+the phone that you are who you say you are.
+5.

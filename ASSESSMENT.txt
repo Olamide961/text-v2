@@ -1,0 +1,53 @@
+Why did you need a network
+ network are used to establish connection between two computer to share resources with the help of ethernet
+STEP 1
+HOW DO COMPUTER TALK TO EACH OTHER 
+
+ETHERNET is a standard protocol that allows any number of computers to communicate with one another.
+ Each computer that is connected to this ethernet is set up to have a unique address or ip address
+
+What is an ip address
+ Internet protocol-is a standard way for computers to communicate.when two computers communicate they use ip addresses to find one another.
+Even if a computer has a NAME on the network(to make it easier for you to remember)it still uses an ip address to communicate with other machines.
+message or request from one computer to another are broadcast and all of the machine that are connected via an ethernet cable can
+hear the message.the machone that is the intended recipient of the message responds and the two machine transmit data to one another.
+
+
+STEP 2
+ WHY DID I NEED A NETWORK
+
+You need network to share resources and to be abe to so a computer must have this part
+1.network interface card 
+2.USB adapter
+
+STEP 3
+ HOW DO I CONNECT COMPUTER 
+If you want to connect two computers, all you need is a twisted pair and an interface in each computer.
+A twisted cable is an Ethernet cable that has a pair of wires that cross somewhere between the ends
+Usually, the wires inside an Ethernet cable go "straight-through." When constructing a network,
+you usually want to use straight through Ethernet cables, except when you are connecting one computer directly to another.
+You can plug each end of the cable into each computer and you have a very simple network.
+
+STEP 4
+ HOW DO I CONNECT 3 OR MORE COMPUTER
+In order to connect three or more computers you should use crossover Ethernet cable. 
+You must be able to plug the Ethernet cables into a device that will allow signals to be transmitted to one another.
+ There are several devices that will allow you to do this:
+1.A HUB
+2.A SWITCH
+3.A ROUTER
+
+A hub is simply a device that repeats the signals it receives. It does not know which computers are connected to it,
+and it does not do any network processing based on the source or destination computer.
+
+A switch is similar to a hub except that it registers the IP addresses of the computers plugged into it. When it receives a message 
+it only sends it to the intended recipient.
+
+A router is similar to a switch, but it performs a number of useful networking functions:
+
+It allows you to create a home network (like a switch), but a router actually separates networks allowing you
+to share your Internet access without being dependent on one computer's connection (unlike a switch).
+
+It provides built-in firewall capabilities that do not hinder network performance.
+You can share your broadband connection without purchasing additional IP addresses
+
